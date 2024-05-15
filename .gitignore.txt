@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+0301pr1.csproj
+0301pr1.cln
+obj/
